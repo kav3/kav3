@@ -2,7 +2,7 @@
 kav3.com[at]gmail.com 
 
 ## 🤹 Skills & Technologies
-- 👌 TypeScript, Javascript, C#
+- 👌 Typescript, Javascript, C#
 - Node.js, 😺 Nestjs, Blazor, .Net Core, Nuxt, Vue
 - EF, Prisma, Socket.io, CQRS, Git, SQL Server, MongoDB
 - Tailwindcss,  Docker, Portainer
