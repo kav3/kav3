@@ -1,4 +1,4 @@
-# Kaveh Taheri [kav3](https://kav3.com) [<img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="24" title="Bitcoin">](https://t.me/kav3_com)
+# Kaveh Taheri [<img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="24">](https://t.me/kav3_com) [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="24">](https://linkedin.com/in/kav3)
 kav3.com[at]gmail.com [kav3.com](https://kav3.com)
 
 ## 🤹 Skills & Technologies
