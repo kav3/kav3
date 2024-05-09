@@ -9,6 +9,7 @@ kav3.com[at]gmail.com [kav3.com](https://kav3.com)
 - Fluent 🇬🇧 English and 🇮🇷 Farsi
 
 ## Latest Projects
+- [sayarak.com](https://sayarak.com) Nuxt + ⛔ noapi.ir
 - [noapi.ir](https://noapi.ir) back-end service + Realtime MongoDB for 🧑‍💻 developers.
-- [ximg.ir](https://ximg.ir) online image proccess service
-- [itrans.ir](https://itrans.ir) human translation service for 10+ years
+- [ximg.ir](https://ximg.ir) online image proccess service.
+- [itrans.ir](https://itrans.ir) human translation service, ASP.Net MVC 3
