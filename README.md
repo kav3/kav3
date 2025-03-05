@@ -1,4 +1,4 @@
-# Kaveh Taheri [<img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="24">](https://t.me/kav3_com) [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="24">](https://linkedin.com/in/kav3)
+# Kaveh Taheri [<img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="24">](https://t.me/kav3_com) [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="24">](https://linkedin.com/in/kav3) [<img src="https://edent.github.io/SuperTinyIcons/images/svg/pdf.svg" width="24">](https://github.com/kav3/kav3/blob/main/kav3-cv.pdf)
 hi[at]kav3.com [kav3.com](https://kav3.com)
 
 ## 🤹 Skills & Technologies
