@@ -3,14 +3,16 @@ hi[at]kav3.com [kav3.com](https://kav3.com)
 
 ## 🤹 Skills
 - 👌 Typescript, Javascript, C#
-- Node.js, Vue, 😺 Nestjs, Blazor, .Net Core, Nuxt, React, Nextjs
-- EF, Prisma, Socket.io, CQRS, Git, SQL Server, MongoDB
-- Tailwindcss, Docker, Portainer
+- Node.js, React, Nextjs, Vue, 😺 Nestjs, Blazor, .Net Core, Nuxt, 🚀 NukeJS
+- EF, Prisma, Socket.io, CQRS, Git, SQL Server, MongoDB, esBuild, oRPC, WebSocket
+- Tailwindcss, Docker, Portainer, K8s
 - Fluent in English and Farsi
-
+- 
 ## Latest Projects
+- ☢️ [nukejs.com](https://nukejs.com) React. **Weaponized**. SSR, HMR, file-based routing, and full React support — out of the box. Deploy to Vercel or Node in one command.
 - ☀️ [noonjs.com](https://noonjs.com) no-code backend framework that generates a secure MongoDB CRUD API with auth, permissions, and real-time SocketIO events—powered by a simple config file.
+- ✈️ [kav3](https://kav3.com) portfolio
+- 🧠 [Amnesia](https://chromewebstore.google.com/detail/amnesia/ggjmkkkkdkkbjdmkiolbpdmhdckbdbha) Chrome extension to temporarily forget distracting websites and improve focus.
 - [sayarak.com](https://sayarak.com) Nuxt + ⛔ noapi.ir
-- [kav3](https://kav3.com) portfolio
 - [ximg.ir](https://ximg.ir) online image proccess service
 - [itrans.ir](https://itrans.ir) human translation service, ASP.Net MVC 3
