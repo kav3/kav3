@@ -7,7 +7,7 @@ hi[at]kav3.com [kav3.com](https://kav3.com)
 - EF, Prisma, Socket.io, CQRS, Git, SQL Server, MongoDB, esBuild, oRPC, WebSocket
 - Tailwindcss, Docker, Portainer, K8s
 - Fluent in English and Farsi
-- 
+
 ## Latest Projects
 - ☢️ [nukejs.com](https://nukejs.com) React. **Weaponized**. SSR, HMR, file-based routing, and full React support — out of the box. Deploy to Vercel or Node in one command.
 - ☀️ [noonjs.com](https://noonjs.com) no-code backend framework that generates a secure MongoDB CRUD API with auth, permissions, and real-time SocketIO events—powered by a simple config file.
