@@ -9,6 +9,7 @@ hi[at]kav3.com [kav3.com](https://kav3.com)
 - Fluent in English and Farsi
 
 ## Latest Projects
+- 😻 [miou.app](https://miou.app) A cat with a brain, not a cloud. A private AI companion that thinks, learns, and grows with you.
 - ☢️ [nukejs.com](https://nukejs.com) React. **Weaponized**. SSR, HMR, file-based routing, and full React support — out of the box. Deploy to Vercel or Node in one command.
 - ☀️ [noonjs.com](https://noonjs.com) no-code backend framework that generates a secure MongoDB CRUD API with auth, permissions, and real-time SocketIO events—powered by a simple config file.
 - ✈️ [kav3](https://kav3.com) portfolio
