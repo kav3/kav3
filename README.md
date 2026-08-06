@@ -41,6 +41,11 @@ A full-stack React framework with SSR, HMR, file-based routing, and full React s
 
 <img src="assets/nukejs.gif" width="500">
 
+### ❤️ Support NukeJS
+If you find **NukeJS** useful, consider giving it a ⭐ on GitHub. It helps the project get more visibility and motivates me to keep building and improving it.
+⭐ [Star NukeJS on GitHub](https://github.com/nuke-js/nukejs)
+
+
 ### ✈️ [Kav3](https://kav3.com)
 
 My personal portfolio, projects, experiments, and everything else I build.
