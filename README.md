@@ -54,6 +54,14 @@ My personal portfolio, projects, experiments, and everything else I build.
 
 A Chrome extension that temporarily forgets distracting websites to help you stay focused.
 
+### 🌐 [Tarjo.me](https://tarjo.me)
+
+**A privacy-first local WebLLM AI translation platform.**
+
+Run translations entirely in your browser with on-device WebLLM models. No servers, no data leaving your machine.
+
+<img src="assets/tarjome.gif" width="500">
+
 ### ☀️ [NoonJS](https://noonjs.com)
 
 **A no-code backend framework for MongoDB.**
