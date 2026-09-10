@@ -17,6 +17,22 @@ I build web applications, developer tools, frameworks, and AI-powered products.
 
 ## 🚀 Latest Projects
 
+### 🤖 [Bot War](https://bot-war.com)
+
+**Pick a map. Enter. Survive.**
+
+Multiplayer survival on shared maps. Watch live games, or program a bot via the API.
+
+<img src="assets/bot-war.gif" width="500">
+
+### 📊 [PapaCRM](https://papacrm.com)
+
+**Own Your CRM.**
+
+A flexible, community-driven open source CRM platform. Customize everything, automate anything, and grow without vendor lock-in.
+
+<img src="assets/papacrm.gif" width="500">
+
 ### 📄 [cvme.app](https://cvme.app)
 
 **Build beautiful resumes that get more interviews.**
